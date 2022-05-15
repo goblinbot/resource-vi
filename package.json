@@ -1,0 +1,52 @@
+{
+  "name": "resource-vi",
+  "version": "1.0.0",
+  "description": "Service+UI test for generating and printing resource sheets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050",
+    "start": "vite build && node index",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goblinbot/resource-vi.git"
+  },
+  "keywords": [
+    "larp",
+    "arduino",
+    "node",
+    "html",
+    "chartjs",
+    "vue"
+  ],
+  "author": "ThijsHester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goblinbot/resource-vi/issues"
+  },
+  "homepage": "https://github.com/goblinbot/resource-vi#readme",
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "koa-static": "^5.0.0",
+    "pinia": "^2.0.13",
+    "serialport": "^10.4.0",
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.0",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.5.0",
+    "eslint-plugin-vue": "^8.2.0",
+    "prettier": "^2.5.1",
+    "vite": "^2.9.5"
+  }
+}

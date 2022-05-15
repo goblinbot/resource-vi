@@ -1,0 +1,214 @@
+{
+  "geodeList": [
+    {
+      "id": "amejisuto",
+      "name": "Amejisuto",
+      "chances": {
+        "unubtanium": 24,
+        "surilium": 16,
+        "dalium": 34,
+        "blarnium": 24
+      }
+    },
+    {
+      "id": "anmoraito",
+      "name": "Anmoraito",
+      "chances": {
+        "unubtanium": 9,
+        "surilium": 21,
+        "dalium": 21,
+        "blarnium": 47
+      }
+    },
+    {
+      "id": "gaanetto",
+      "name": "Gaanetto",
+      "chances": {
+        "unubtanium": 16,
+        "surilium": 24,
+        "dalium": 24,
+        "blarnium": 34
+      }
+    },
+    {
+      "id": "gankakiseki",
+      "name": "Gankakiseki",
+      "chances": {
+        "unubtanium": 16,
+        "surilium": 62,
+        "dalium": 4,
+        "blarnium": 16
+      }
+    },
+    {
+      "id": "hisui",
+      "name": "Hisui",
+      "chances": {
+        "unubtanium": 25,
+        "surilium": 24,
+        "dalium": 24,
+        "blarnium": 25
+      }
+    },
+    {
+      "id": "ishi",
+      "name": "Ishi",
+      "chances": {
+        "unubtanium": 21,
+        "surilium": 47,
+        "dalium": 9,
+        "blarnium": 21
+      }
+    },
+    {
+      "id": "keikujakuseki",
+      "name": "Keikujakuseki",
+      "chances": {
+        "unubtanium": 16,
+        "surilium": 4,
+        "dalium": 62,
+        "blarnium": 16
+      }
+    },
+    {
+      "id": "keisenseki",
+      "name": "Keisenseki",
+      "chances": {
+        "unubtanium": 47,
+        "surilium": 21,
+        "dalium": 21,
+        "blarnium": 9
+      }
+    },
+    {
+      "id": "kongouseki",
+      "name": "Kongouseki",
+      "chances": {
+        "unubtanium": 0,
+        "surilium": 0,
+        "dalium": 0,
+        "blarnium": 98
+      }
+    },
+    {
+      "id": "kougyoku",
+      "name": "Kougyoku",
+      "chances": {
+        "unubtanium": 98,
+        "surilium": 0,
+        "dalium": 0,
+        "blarnium": 0
+      }
+    },
+    {
+      "id": "marakaito",
+      "name": "Marakaito",
+      "chances": {
+        "unubtanium": 21,
+        "surilium": 9,
+        "dalium": 47,
+        "blarnium": 21
+      }
+    },
+    {
+      "id": "menou",
+      "name": "Menou",
+      "chances": {
+        "unubtanium": 34,
+        "surilium": 24,
+        "dalium": 24,
+        "blarnium": 16
+      }
+    },
+    {
+      "id": "murasaki_suishou",
+      "name": "Murasaki Suishou",
+      "chances": {
+        "unubtanium": 9,
+        "surilium": 1,
+        "dalium": 79,
+        "blarnium": 9
+      }
+    },
+    {
+      "id": "seigyoku",
+      "name": "Seigyoku",
+      "chances": {
+        "unubtanium": 0,
+        "surilium": 0,
+        "dalium": 98,
+        "blarnium": 0
+      }
+    },
+    {
+      "id": "sekiei",
+      "name": "Sekiei",
+      "chances": {
+        "unubtanium": 4,
+        "surilium": 16,
+        "dalium": 16,
+        "blarnium": 62
+      }
+    },
+    {
+      "id": "suishou",
+      "name": "Suishou",
+      "chances": {
+        "unubtanium": 0,
+        "surilium": 98,
+        "dalium": 0,
+        "blarnium": 0
+      }
+    },
+    {
+      "id": "supineru",
+      "name": "Supineru",
+      "chances": {
+        "unubtanium": 62,
+        "surilium": 16,
+        "dalium": 16,
+        "blarnium": 4
+      }
+    },
+    {
+      "id": "tanbaku_seiki",
+      "name": "Tanbaku Seiki",
+      "chances": {
+        "unubtanium": 9,
+        "surilium": 79,
+        "dalium": 1,
+        "blarnium": 9
+      }
+    },
+    {
+      "id": "tanpakuishi",
+      "name": "Tanpakuishi",
+      "chances": {
+        "unubtanium": 79,
+        "surilium": 9,
+        "dalium": 9,
+        "blarnium": 1
+      }
+    },
+    {
+      "id": "torukoishi",
+      "name": "Torukoishi",
+      "chances": {
+        "unubtanium": 24,
+        "surilium": 34,
+        "dalium": 16,
+        "blarnium": 24
+      }
+    },
+    {
+      "id": "zakuroishi",
+      "name": "Zakuroishi",
+      "chances": {
+        "unubtanium": 1,
+        "surilium": 9,
+        "dalium": 9,
+        "blarnium": 79
+      }
+    }
+  ]
+}
